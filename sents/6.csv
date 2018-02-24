@@ -1,0 +1,11 @@
+,harry,mrs_weasley,ron,ginny,hermione,fred_george,hagrid,percy,spells,students
+harry,1,1,8,0,0,0,1,0,0,0
+mrs_weasley,1,0,1,1,0,3,0,2,0,0
+ron,11,0,0,0,2,0,0,0,1,0
+ginny,1,0,0,0,0,0,0,0,0,0
+hermione,4,0,6,0,0,0,0,0,1,0
+fred_george,0,3,0,0,0,0,0,0,0,0
+hagrid,1,0,0,0,0,0,0,0,0,2
+percy,0,0,0,0,0,0,0,0,0,0
+spells,0,0,0,0,0,0,0,0,0,0
+students,0,0,0,0,0,0,0,0,0,0

@@ -1,7 +1,7 @@
-,harry,ron,hermione,seamus,spells,hooch,students,draco,dean,neville,minerva,wood,fred_george,ghosts,quirrell,spells
+,harry,ron,hermione,seamus,spells,hooch,students,draco,dean,neville,minerva,wood,fred_george,ghosts,quirrell,nearly_headless_nick
 harry,0,92,19,0,0,0,0,15,0,0,0,0,0,0,0,0
 ron,114,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0
-hermione,66,87,3,0,0,0,0,0,0,14,0,0,0,0,0,1
+hermione,66,87,3,0,1,0,0,0,0,14,0,0,0,0,0,0
 seamus,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
 spells,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 hooch,0,0,0,0,0,0,154,0,0,24,0,0,0,0,0,0
