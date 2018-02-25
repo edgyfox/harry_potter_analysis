@@ -11,3 +11,7 @@ sents - **total number of deliveries from character to character
 words - **total number of words from character to character
 
 every folder has files corresponding to different chapters from the book
+
+merge.py - **calculate avg files
+
+hp.py - **turn a list into a adjacency matrix (not required)
