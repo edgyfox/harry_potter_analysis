@@ -15,3 +15,5 @@ every folder has files corresponding to different chapters from the book
 merge.py - **calculate avg files**
 
 hp.py - **turn a list into a adjacency matrix (not required)**
+
+chapter.csv - **list of all chapter numbers and names, words separated by underscores**
